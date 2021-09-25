@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="brands.xsl"?>
+<brands>
+
+<brand>
+<product> Nike</product>
+<count> 2</count>
+</brand>
+
+<brand>
+<product> Adidas</product>
+<count> 1</count>
+</brand>
+
+<brand>
+<product> Reebok</product>
+<count> 1</count>
+</brand>
+
+<brand>
+<product> Under Armour</product>
+<count> 2</count>
+</brand>
+
+<brand>
+<product> Puma</product>
+<count> 2</count>
+</brand>
+
+
+
+
+</brands>
